@@ -1,16 +1,16 @@
-html{height: 100%;}
+html{height:100%;}
 
 body
 { font-family: "lucida sans", arial, sans-serif;
-  padding: 0px;
-  margin: 0px;
+  padding: 20px;
+  margin: 10px;
   font-size: 1em;
   /*background: #F6F4F0;*/
   /*color: #635B53;}*/
   }
 
 p
-{ margin: 0px;
+{ margin: 0px 0px 0px 10px;
   padding: 0px 0px 16px 0px;
   line-height: 1.2em;}
 
@@ -87,7 +87,8 @@ ol li
 
 #main, #logo, #menubar, #site_content, #footer
 { margin-left: auto; 
-  margin-right: auto;}
+  margin-right: auto;
+  padding-bottom: 5px;}
 
 #header
 /*{ background: #F6F4F0;}*/
@@ -225,6 +226,7 @@ ul#menu li a:hover
 { text-align: left;
   width: 1000px;
   float: center;
+  margin: 0px 0px 0px 20px;
   padding: 0px 0px 0px 0px;}
 
 #footer
@@ -259,7 +261,7 @@ ul#menu li a:hover
 { margin: 15px 0 0 0;}
 
 .form_settings p
-{ padding: 0 0 4px 0;}
+{ padding: 0 0 4px 10px;}
 
 .form_settings span
 { float: left; 
