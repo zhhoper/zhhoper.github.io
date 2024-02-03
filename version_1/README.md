@@ -1,1 +1,0 @@
-This is the source code to Hao Zhou's public academic website: https://zhhoper.github.io.
