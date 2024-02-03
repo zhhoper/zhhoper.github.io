@@ -15,7 +15,7 @@ I obtained my PhD at Department of Computer Science, University of Maryland, Col
 During my PhD studies, I was lucky to join Adobe Research, NEC Labs America and National ICT (NICTA) Australia as a research intern.
 
 
-Selected Publications
+Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=LSkAN30AAAAJ&hl=en)]
 ======
 
 <a href="https://arxiv.org/pdf/2307.03166.pdf"><papertitle>VideoGLUE: Video General Understanding Evaluation of Foundation Models.</papertitle></a>
