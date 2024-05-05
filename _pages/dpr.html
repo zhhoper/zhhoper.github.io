@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Deep Single Image Portrait Relighting</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style/style_dpr.css" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+	  <h1><center>Deep Single Image Portrait Relighting</center></h1>
+	  <h2><center>Hao Zhou<sup>1</sup>, Sunil Hadap<sup>2</sup> Kalyan Sunkavalli <sup>3</sup> and David W. Jacobs<sup>1</sup></center></h2>
+	  <h2><center><sup>1</sup><small>University of Maryland, College Park, USA</small></center></h2>
+	  <h2><center><sup>2</sup><small>Amazon</small></center></h2>
+	  <h2><center><sup>3</sup><small>Adobe Research</small></center></h2>
+        </div>
+      </div>
+    </div>
+    <div id="content_header"></div>
+    <div id="site_content">
+      <div id="content">
+        <!-- insert the page content here -->
+        <h1>Abstract</h1>
+	<p> In this work, we design a single portrait relighting algorithm. We first apply a physically-based portrait relighting method to generate a large scale, high quality, "in the wild" portrait relighting dataset (DPR). A deep Convolutional Neural Network (CNN) is then trained using this dataset to generate a relighted portrait image by using a source image and a target lighting as input. Our trained network can relight portrait images with resolutions as high as 1024 X 1024.</p>
+	<p><center><img src="pbr/obama.gif" alt="demo" style="height:180px" align="middle"> </video></center></p>
+	<h1>Dataset [<i><a href="https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing">Download</a></i>]</h1>
+
+	<!-- example in the dataset -->
+	<table align=center width=1000px>
+		<tr>
+			<center><img src="pbr/dataset.jpg" alt="dataset", style="width:700px;" aligh="middle"></center>
+			<td width=600px>
+				<center>
+				<span style="font-size:14px"><i><span style="font-weight:bold">Fig 1: Example images in our DPR dataset.</span></i></span>
+				</center>
+			</td>
+		</tr>
+	</table>
+	<p> We applied ratio image to generate 138,135 relit images.
+		Some examples are shown in Fig 1.
+	</p>
+
+	<h1>Network Sturcture</h1>
+	<table align=center width=1000px>
+		<tr>
+			<center><img src="pbr/network_structure.jpg" alt="dataset", style="width:700px;" aligh="middle"></center>
+			<td width=600px>
+				<center>
+				<span style="font-size:14px"><i><span style="font-weight:bold">Fig 2: Network structure.</span></i></span>
+				</center>
+			</td>
+		</tr>
+	</table>
+	Our network is designed to have a Hourglass network structure as shown in Fig 2. It takes a portrait image and a target lighting condition as input and generates a new portrait image under the target ligting condition.
+
+	<h1>Results</h1>
+	<video width="320" height="240" controls>
+		<source src="pbr/celebA.mp4" type="video/mp4">
+	</video>
+	<video width="320" height="240" controls>
+		<source src="pbr/Occlusion.mp4" type="video/mp4">
+	</video>
+	<video width="320" height="240" controls>
+		<source src="pbr/nonFrontal.mp4" type="video/mp4">
+	</video>
+	<p>We show some relit images for CelebA dataset, images with occlusion and images with non-frontal images. Videos can be downloaded from [<a href="https://drive.google.com/file/d/1k9Q6yZEmXf6l2kOBvXJ8xeyKriBRkV2d/view?usp=sharing">Download</a>].
+	<h1>Code</h1>
+	<p> We publish testing code with pre-trained model (<a href="https://github.com/zhhoper/DPR">DOWNLOAD HERE</a>) and the code for data preparation (<a href="https://github.com/zhhoper/RI_render_DPR">DOWNLOAD HERE</a>)
+	<h1>Downloads</h1>
+	[<a href="paper/zhou_ICCV2019_DPR.pdf">Paper</a> ] |
+	[<a href="paper/zhou_ICCV_2019_DPR_sup.pdf">Supplement</a> ] |
+	[<a href="bibtex/zhou_iccv_2019_DPR.bib">Bibtex</a>] | 
+	[<a href="poster/Poster_ICCV_2019_DPR.pdf">Poster</a>] |
+	[<a href="https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing">Dataset</a>]
+	[<a href="https://github.com/zhhoper/DPR">Testing Code</a>]
+	[<a href="https://github.com/zhhoper/RI_render_DPR">Data Preparation Code</a>]
+	[<a href="https://drive.google.com/file/d/1k9Q6yZEmXf6l2kOBvXJ8xeyKriBRkV2d/view?usp=sharing">Videos</a>]
+      </div>
+    </div>
+</body>
+</html>

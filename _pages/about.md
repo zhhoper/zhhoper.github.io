@@ -15,8 +15,10 @@ I obtained my PhD at Department of Computer Science, University of Maryland, Col
 During my PhD studies, I was lucky to join Adobe Research, NEC Labs America and National ICT (NICTA) Australia as a research intern.
 
 
-Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=LSkAN30AAAAJ&hl=en)]
+Selected Publications
 ======
+
+[full list](https://scholar.google.com/citations?user=LSkAN30AAAAJ&hl=en)
 
 <a href="https://arxiv.org/pdf/2307.03166.pdf"><papertitle>VideoGLUE: Video General Understanding Evaluation of Foundation Models.</papertitle></a>
 <br>Liangzhe Yuan, Nitesh Bharadwaj Gundavarapu, Long Zhao, <strong>Hao Zhou</strong>, Yin Cui, Lu Jiang, Xuan Yang, Menglin Jia, Tobias Weyand, Luke Friedman, Mikhail Sirotenko, Huisheng Wang, Florian Schroff, Hartwig Adam, Ming-Hsuan Yang, Ting Liu and Boqing Gong.
