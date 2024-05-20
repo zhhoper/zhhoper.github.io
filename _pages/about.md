@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a software engineer at [Google Research](https://research.google) where I work on research projects in computer vision and machine learning. My work has been productized into [Google Photos](https://www.google.com/photos/about/) and [Waymo](https://waymo.com). Before joining Google Research, I worked as an applied scientist in [AWS Rekognition](
+I am a software engineer at [Google DeepMind](https://deepmind.google) where I work on research projects in computer vision and machine learning. My work has been productized into [Google Photos](https://www.google.com/photos/about/) and [Waymo](https://waymo.com). Before joining Google Research, I worked as an applied scientist in [AWS Rekognition](
 https://aws.amazon.com/rekognition/).
 
 I obtained my PhD at Department of Computer Science, University of Maryland, College Park supervied by Prof. [David W. Jacobs](https://www.cs.umd.edu/~djacobs/) in 2019. Before that, I received an M.Phil. from the University of Hong Kong under supervision of Dr. [Kenneth K.Y. Wong](http://i.cs.hku.hk/~kykwong/) in 2012, and a B.Eng in the University of Science and Technology of China in 2010.
