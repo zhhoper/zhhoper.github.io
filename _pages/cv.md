@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* 2022 - present: Software Engineer
+* 2024 - present: Software Engineer
+  * Google DeepMind
+
+* 2022 - 2024: Software Engineer
   * Google Research
   
 * 2019 - 2022: Applied Research Scientist
