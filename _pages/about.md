@@ -20,6 +20,10 @@ Selected Publications
 
 [full list](https://scholar.google.com/citations?user=LSkAN30AAAAJ&hl=en)
 
+<a href="https://arxiv.org/pdf/2402.13217"><papertitle>Videoprism: A Foundational Visual Encoder for Video Understanding.</papertitle></a>
+<br>Long Zhao, Nitesh B. Gundavarapu, Liangzhe Yuan, <strong>Hao Zhou</strong>, Luke Friedman, Rui Qian, Tobias Weyand, Yue Zhao, Rachel Hornung, David A. Ross, Huisheng Wang, Hartwig Adam, Mikhail Sirotenko, Shen Yan, Jennifer J. Sun, Florian Schroff, Ming-Hsuan Yang, Ting Liu and Boqing Gong.
+<br><em>ICML</em>, 2024.
+
 <a href="https://arxiv.org/pdf/2307.03166.pdf"><papertitle>VideoGLUE: Video General Understanding Evaluation of Foundation Models.</papertitle></a>
 <br>Liangzhe Yuan, Nitesh Bharadwaj Gundavarapu, Long Zhao, <strong>Hao Zhou</strong>, Yin Cui, Lu Jiang, Xuan Yang, Menglin Jia, Tobias Weyand, Luke Friedman, Mikhail Sirotenko, Huisheng Wang, Florian Schroff, Hartwig Adam, Ming-Hsuan Yang, Ting Liu and Boqing Gong.
 <br><em>Arxiv</em>, 2023.
@@ -34,7 +38,7 @@ Selected Publications
 
 <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf"><papertitle>Deep Single-Image Portrait Relighting.</papertitle></a>
 <br><strong>Hao Zhou</strong>, Sunil Hadap, Kalyan Sunkavalli and David W. Jacobs
-<br><em>ICCV</em>, 2019. <a href="project_pages/dpr.html">Porject</a> <em><mark>Coverd by <a href="https://www.youtube.com/watch?v=Ks7wDYsN4yM">Two Minutes Paper</a></mark></em>
+<br><em>ICCV</em>, 2019. <a href="/project_pages/dpr.html">Porject</a> <em><mark>Coverd by <a href="https://www.youtube.com/watch?v=Ks7wDYsN4yM">Two Minutes Paper</a></mark></em>
 
 <a href="https://openaccess.thecvf.com/content_ICCV_2019/papersZhou_GLoSH_Global-Local_Spherical_Harmonics_for_Intrinsic_Image_Decomposition_ICCV_2019_paper.pdf"><papertitle>GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.</papertitle></a>
 <br><strong>Hao Zhou</strong>, Xiang Yu and David W. Jacobs

@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, The University of Maryland, College Park, 2019.
-* M.Phil. in Computer Science, The University of Hong Kong, 20212.
+* M.Phil. in Computer Science, The University of Hong Kong, 2012.
 * B.Eng. in Electronic Engineering and Information Science. The University of Science and Technology of China, 2010.
 
 
