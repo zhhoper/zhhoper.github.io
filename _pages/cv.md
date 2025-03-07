@@ -42,6 +42,10 @@ Work experience
 
 Academic Services
 ======
+* Area Chair:
+  ICLR 2025.
+
+
 * Journal Reviewer:
   * IEEE Transactions on Signal Processing.
   * IEEE Transactions on Image Processing.
