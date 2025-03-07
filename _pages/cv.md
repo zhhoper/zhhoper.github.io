@@ -56,4 +56,4 @@ Academic Services
   * IEEE Transactions on Medical Imaging.
   * IEEE Robotics and Automation Letters.
   * IEEE Transactions on Circuits and Systems for Video Technology.
-  * Journal of Machine Learning Research.
+  * Transactions on Machine Learning Research
