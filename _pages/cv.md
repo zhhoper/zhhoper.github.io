@@ -43,7 +43,7 @@ Work experience
 Academic Services
 ======
 * Area Chair:
-  ICLR 2025.
+  * ICLR 2025.
 
 
 * Journal Reviewer:
